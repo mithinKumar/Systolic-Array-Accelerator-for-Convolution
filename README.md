@@ -69,5 +69,5 @@ For this setup, only preprocessing is done in C code:
 Additionally, the data transfer back from the systolic array (modeled as memory loading) required **228 cycles**, bringing the total to **3231 cycles**.
 
 ### Conclusion
-We observed a significant performance improvement with the systolic array, reducing the cycles from **7534 (CPU-only)** to **4003 (CPU + FPGA)**. This demonstrates a nearly **two-fold increase in performance** with the systolic array.
+We observed a significant performance improvement with the systolic array, reducing the cycles from **7534 (CPU-only)** to **3231 (CPU + FPGA)**. This demonstrates a nearly **two-fold increase in performance** with the systolic array.
 
