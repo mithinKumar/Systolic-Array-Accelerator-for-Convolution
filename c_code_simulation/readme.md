@@ -1,4 +1,4 @@
-This project involves the following key components:
+This folder involves the following key components:
 
 - **preprocessing.c** and **preprocessing.asm**: These files contain C and assembly code, respectively, that take an input matrix and a weight matrix. The code generates two matrices, whose matrix multiplication results in the convolution of the original matrices. These generated arrays are directly used by the systolic array for matrix multiplication.
   
