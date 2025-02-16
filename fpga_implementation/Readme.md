@@ -9,7 +9,7 @@ This project consists of the following modules:
 ## UART Settings
 The UART communication settings are configured for 9600 baud rate. For additional details, refer to the image below.
 
-![UART Settings](fpga_implementation/image.png)
+![UART Settings](image.png)
 
 ## FPGA Programming
 To program the FPGA, follow the steps outlined in the [VSDSquadron_FM GitHub repository](https://github.com/thesourcerer8/VSDSquadron_FM/tree/main).
