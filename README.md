@@ -50,7 +50,7 @@ In the following video, the final SystemVerilog code is dumped onto the **VSDSqu
 
 <img src="images/TB.jpg" width="400">
 
-[Watch the Video Submission](https://drive.google.com/drive/folders/1ws1UT1lFA6Y9jibZrNsLLUj5b1qORAI5?usp=sharing)
+[Watch the Video Submission](https://drive.google.com/drive/folders/171VYndACv2W_u6io5pRV3rhXbbNptUDK?usp=sharing)
 
 ## Accelerator vs CPU Comparison
 
