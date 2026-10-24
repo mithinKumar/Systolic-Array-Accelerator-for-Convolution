@@ -1,0 +1,31 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+
+# C simulation binaries
+c_code_simulation/complete
+c_code_simulation/preprocessing
+c_code_simulation/demo
+c_code_simulation/test_runner
+
+# FPGA build artifacts
+*.bin
+*.blif
+*.asc
+*.timings
+fpga_implementation/*.json
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+.docker/
